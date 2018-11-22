@@ -1,16 +1,8 @@
 # The Technological Singularity Resource Page
 
-A collection of resources about the singularity that get it right.
+A collection of resources about the singularity.
 
 **Send your pull requests!**
-
-## Propositions:
-
-- AGI's are impossible
-- All AI in existence today is Weak AI
-- Godel had a good point
-- Ayn Rand had a lot of good points
-- Computers are mutable memory machines by nature
 
 ## People
 
