@@ -23,7 +23,7 @@ A collection of resources about the singularity.
   - [Wikipedia](https://en.wikipedia.org/wiki/Stewart_Brand)
 
 - Ray Kurzweil
- - [Computronium](https://www.youtube.com/watch?v=lAJkDrBCA6k)
+  - [Computronium](https://www.youtube.com/watch?v=lAJkDrBCA6k)
   
 ## Films
 
