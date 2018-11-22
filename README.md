@@ -19,8 +19,8 @@ A collection of resources about the singularity that get it right.
   - [about](https://about.me/ipearson)
   - [his company](https://www.futurizon.com/)
   
-- Socrates
-  - [blog](https://www.singularityweblog.com/) This blog witnesses the personal growth and evolution of a man trying to make sense of all this singularity stuff. He interviews a lot of guests, many of whom are influential people in their own right.  You may not agree with some of what is said, but keep an open mind because he is coming around to the material as much as anyone else.  Be inspired by his example. He is the man in the arena.  If you disagree, he invites you to write in.
+- Nikola Danaylov
+  - [blog](https://www.singularityweblog.com/) This blog witnesses the personal growth and evolution of a man trying to make sense of all this singularity stuff. He interviews a lot of guests, many of whom are influential people in their own right.  You may not agree with some of what is said, but keep an open mind because he is evolving as much as anyone else.  Be inspired by his example. He is the man in the arena.  If you disagree, he invites you to write in.
   
 ## Films
 
