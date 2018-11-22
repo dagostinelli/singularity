@@ -22,6 +22,8 @@ A collection of resources about the singularity.
       - [You Tube](https://www.youtube.com/results?search_query=the+10%2C000+year+clock)
   - [Wikipedia](https://en.wikipedia.org/wiki/Stewart_Brand)
 
+- Ray Kurzweil
+ - [Computronium](https://www.youtube.com/watch?v=lAJkDrBCA6k)
   
 ## Films
 
