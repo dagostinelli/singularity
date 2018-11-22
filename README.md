@@ -4,7 +4,15 @@ A collection of resources about the singularity.
 
 **Send your pull requests!**
 
+## Start Here
+
+- [Ray Kurzweil The Accelerating Power of Technology](https://www.youtube.com/watch?v=IfbOyw3CT6A)
+
 ## People
+
+- Ray Kurzweil
+  - [The Law of Accelerating Returns](https://www.youtube.com/watch?v=IfbOyw3CT6A)
+  - [Computronium](https://www.youtube.com/watch?v=lAJkDrBCA6k)
 
 - Dr. Ian Pearson
   - [blog](https://timeguide.wordpress.com/)
@@ -21,9 +29,6 @@ A collection of resources about the singularity.
       - [home page](http://longnow.org/clock/)
       - [You Tube](https://www.youtube.com/results?search_query=the+10%2C000+year+clock)
   - [Wikipedia](https://en.wikipedia.org/wiki/Stewart_Brand)
-
-- Ray Kurzweil
-  - [Computronium](https://www.youtube.com/watch?v=lAJkDrBCA6k)
   
 ## Films
 
@@ -32,3 +37,10 @@ A collection of resources about the singularity.
   - [imdb](https://www.imdb.com/title/tt1801123/)
   - [wikipedia](https://en.wikipedia.org/w/index.php?oldid=863384938)
 - Black Mirror
+
+## Concepts
+
+- [The Law of Accelerating Returns](https://www.youtube.com/watch?v=8QWU1iEDoxw)
+- [Post Scarcity Civilization](https://www.youtube.com/watch?v=_Kt7883oTd0)
+
+
